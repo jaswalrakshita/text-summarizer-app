@@ -57,3 +57,33 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+## 🧠 Gemini-Powered AI Summarizer
+
+This project uses **Google's Gemini Generative AI** to deliver fast, intelligent, and human-like text summarization. It taps into the power of large language models through the Gemini API and provides a smooth experience via an Angular frontend.
+
+---
+
+### 🚀 Key Features
+
+- ✨ Powered by **Google Gemini** – State-of-the-art generative AI
+- 🧠 Understands context and generates concise summaries
+- 🔒 Secure API integration using environment variables
+- ⚡ Fast & responsive web interface built with Angular
+
+---
+
+### 🛠️ Technologies Used
+
+- **Frontend**: Angular, TypeScript, HTML, CSS  
+- **AI Integration**: Google Gemini API (Generative AI)  
+- **Security**: Environment-based API key management using `.env` file (keep it secret!)  
+
+---
+
+### 🔑 Environment Variable Setup
+
+```bash
+# In your .env file (not committed to GitHub)
+GEMINI_API_KEY=your_google_gemini_api_key_here
+
