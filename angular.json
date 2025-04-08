@@ -66,6 +66,12 @@
             "production": {
               "buildTarget": "text-summarizer-app:build:production"
             },
+            "fileReplacements": [
+              {
+                "replace": "src/environments/environment.ts",
+                "with": "src/environments/environment.prod.ts"
+              }
+            ],
             "development": {
               "buildTarget": "text-summarizer-app:build:development"
             }
