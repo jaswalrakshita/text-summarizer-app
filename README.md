@@ -1,3 +1,16 @@
+<!-- Project Info Badges -->
+![Built with Angular](https://img.shields.io/badge/Built%20with-Angular-DD0031?logo=angular&logoColor=white)
+![Powered by Google Gemini](https://img.shields.io/badge/AI-Google%20Gemini-blueviolet?logo=google)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue?logo=typescript)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
+![MIT License](https://img.shields.io/badge/License-MIT-green)
+
+<!-- Status / Version -->
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+
+
+
 # TextSummarizerApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.6.
